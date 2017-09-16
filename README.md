@@ -3,7 +3,7 @@
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![npm version](https://badge.fury.io/js/serverless-puresec-cli.svg)](https://badge.fury.io/js/serverless-puresec-cli)
 
-[Website](https://www.puresec.io/) • [Newsletter](http://eepurl.com/cPu0_b) • [Slack](http://slack-signup.puresec.io) • [Twitter](https://twitter.com/PureSecTeam/)
+[Website](https://www.puresec.io/) • [Newsletter](http://eepurl.com/cPu0_b) • [Twitter](https://twitter.com/PureSecTeam/)
 
 Serverless plugin for [PureSec CLI](https://github.com/puresec/puresec-cli).
 
@@ -70,5 +70,4 @@ serverless puresec gen-roles --function myFunction
 
 * [Website](https://www.puresec.io/) (Our main product is still in closed beta)
 * [Newsletter](http://eepurl.com/cPu0_b)
-* [Slack](http://slack-signup.puresec.io)
 * [Twitter](https://twitter.com/PureSecTeam/)
